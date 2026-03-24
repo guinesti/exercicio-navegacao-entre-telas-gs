@@ -19,4 +19,4 @@ passagem de parâmetros entre as telas.
   Para concluir, com a passagem do parâmetro da idade do usuário, criei um listOf e fiz a tela de perfil receber dois dados ao mesmo tempo.
   Atualizei a interface da PerfilScreen para mostrar uma frase dinâmica ("PERFIL - $nome tem $idade anos") e usei como exemplo o nome do Cristiano Ronaldo e sua idade que é 41 anos.
 
-  Essas 4 etapas foram feitas em apenas 1 commit que é 
+  Essas 4 etapas foram feitas em apenas 1 commit que é "Passagem de múltiplos parâmetros nas telas de Perfil e Pedidos".
